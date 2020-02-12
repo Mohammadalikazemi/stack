@@ -1,0 +1,19 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "stack implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammadalikazemi/stack.git"
+  },
+  "author": "MAK <ma_kazemi@yahoo.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammadalikazemi/stack/issues"
+  },
+  "homepage": "https://github.com/Mohammadalikazemi/stack#readme"
+}
