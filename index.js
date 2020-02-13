@@ -47,7 +47,7 @@ class Stack{
     }
     peek(){ 
         if (this.lastItem < 0) { 
-            cout << "Stack is Empty"; 
+            console.log("Stack is Empty"); 
             return 0; 
         } 
         else { 
